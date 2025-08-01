@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FFmpeg-iOS-Support",
+        "repositoryURL": "https://github.com/kewlbear/FFmpeg-iOS-Support",
+        "state": {
+          "branch": null,
+          "revision": "be3bd9149ac53760e8725652eee99c405b2be47a",
+          "version": "0.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
